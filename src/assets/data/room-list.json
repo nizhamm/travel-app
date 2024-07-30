@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "type": "Suite Room",
+    "price": "£120.00",
+    "max": "3 Persons",
+    "view": "Sea view",
+    "bed": "1",
+    "icon": "room-list/img_1.jpg"
+  },
+  {
+    "id": 2,
+    "type": "Suite Room",
+    "price": "£100.00",
+    "max": "2 Persons",
+    "view": "Sea view",
+    "bed": "1",
+    "icon": "room-list/img_2.jpg"
+  },
+  {
+    "id": 3,
+    "type": "Suite Room",
+    "price": "£150.00",
+    "max": "4 Persons",
+    "view": "Sea view",
+    "bed": "2",
+    "icon": "room-list/img_3.jpg"
+  }
+]

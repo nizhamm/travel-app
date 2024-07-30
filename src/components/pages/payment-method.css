@@ -1,0 +1,40 @@
+.payit-style {
+  cursor: pointer;
+  border: 1pt solid grey;
+  box-shadow: 19px 5px 8px;
+  border-radius: 13px;
+  margin-bottom: 20px;
+  height: 60px;
+}
+
+.form-check {
+  padding-bottom: 15px;
+}
+
+.earn-more {
+  font-size: 12px;
+  color: crimson;
+  font-weight: 600;
+}
+
+.nat-scope {
+  background-color: beige;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.customer-info {
+  padding: 20px;
+  background-color: aliceblue;
+  border-radius: 16px;  
+}
+
+ul {
+  font-size: 14px;
+  color: rgb(124, 5, 70);
+  font-weight: 700;
+}
+
+.spinner-border {
+  margin-left: 50px
+}

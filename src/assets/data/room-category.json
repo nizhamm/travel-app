@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "type": "Wood Side",
+    "icon": "room-cate/room-1.jpg"
+  },
+  {
+    "id": 2,
+    "type": "Hill Side",
+    "icon": "room-cate/room-2.jpg"
+  },
+  {
+    "id": 3,
+    "type": "Tree Top",
+    "icon": "room-cate/room-3.jpg"
+  },
+  {
+    "id": 4,
+    "type": "Hobbit",
+    "icon": "room-cate/room-4.jpg"
+  }
+]

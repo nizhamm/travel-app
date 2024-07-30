@@ -1,0 +1,94 @@
+.heading-summary {
+  padding: 20px 0px 20px 0px;
+  margin-left: 20px;
+  color: black;
+  font-size: 30px !important;
+  font-weight: 500;
+}
+
+.payment-grid {
+  border: 1pt solid lightblue;
+  border-radius: 5px;
+  display: flex;
+  margin-right: 26px;
+  padding: 25px;
+}
+
+.payment-container {
+  margin: 20px;
+}
+
+.form-control {
+  margin-bottom: 30px;
+}
+
+.heading-style {
+  font-weight: 400;
+  font-size: 30px;
+  color: black;
+  padding-bottom: 20px;
+}
+
+/* .payment-container {
+  width: 10px;
+  height: 10px;
+} */
+
+.payit-style {
+  cursor: pointer;
+  border: 1pt solid grey;
+  box-shadow: 19px 5px 8px;
+  border-radius: 13px;
+  margin-bottom: 20px;
+  height: 60px;
+}
+
+.para-head {
+  font-weight: 700;
+}
+
+.booking-data {
+  font-size: 16px;
+}
+.booking-table {
+  margin-top: 20px;
+}
+
+.table > tbody > tr > td,
+.table > tbody > tr > th {
+  border: none;
+}
+
+.total-style {
+  font-size: 25px;
+  border: 1pt solid grey;
+}
+
+.btn-complete {
+  width: 450px;
+  height: 60px;
+}
+
+.container-complete {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+
+.nat-scope {
+  background-color: beige;
+  padding: 10px;
+  border-radius: 10px;
+  width: 600px;
+}
+
+.discount-text {
+  font-size: 10pt;
+  font-weight: 700;
+  color: red;
+}
+
+.th-size {
+  width: 320px;
+}

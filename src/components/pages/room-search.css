@@ -1,0 +1,44 @@
+.card-style {
+  position: relative;
+  margin: auto;
+  width: 80%;
+  height: 120px;
+  background-color: ghostwhite;
+  padding: 10px;
+  border-radius: 6px;
+  margin-top: -27px;
+  z-index: 0;
+  display: flex;
+  align-items: end;
+}
+
+.form-formatting {
+  width: 200px !important;
+  margin: 0px 20px 0px 20px;
+}
+
+.form-style {
+  display: flex;
+}
+
+.date-style {
+  width: 160px !important;
+  margin-right: 20px;
+  border: 2px solid lightgrey;
+  border-radius: 5px;
+}
+
+.number-person {
+  width: 210px !important;
+  margin-right: 20px;
+}
+
+.number-rooms {
+  width: 150px !important;
+  margin-right: 20px;
+}
+
+.go-btn {
+  margin-right: 20px;
+  height: 40px;
+}

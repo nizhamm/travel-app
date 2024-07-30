@@ -1,0 +1,65 @@
+.cat-img {
+  height: 400px;
+  width: 100%;
+  padding: 10px;
+  cursor: pointer;
+}
+.room-container {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+.room-select-type {
+  font-size: 30px;
+  font-weight: 400;
+  align-items: center;
+  text-align: center;
+  color: grey;
+  padding-left: 130px;
+}
+
+h2 {
+  margin-left: 10px;
+  padding: 40px 0px 10px 10px;
+}
+
+ul {
+  list-style-type: none;
+  font-size: 20px;
+}
+
+.room-card {
+  background-color: whitesmoke;
+  margin-right: 40px;
+  border-radius: 10px;
+}
+
+.price {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.per-night {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.book-now {
+  height: 100px;
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-success {
+  height: 50px;
+  width: 250px;
+}
+
+.btn-align {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 20px;
+}

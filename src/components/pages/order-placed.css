@@ -1,0 +1,23 @@
+.order-container {
+  margin: 20px;
+}
+
+.row-container {
+    margin: 20px;
+    border:1pt solid lightskyblue;
+    border-radius: 10px;
+}
+
+h3 {
+    padding: 10px;
+    color:brown !important ;
+}
+
+h4 {
+    padding-top: 10px;    
+    color:brown !important ;
+}
+
+.text-num {
+    padding-bottom: 30px;
+}

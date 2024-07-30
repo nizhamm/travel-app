@@ -1,0 +1,9 @@
+.currency-section {
+  border: 1pt solid lightsteelblue;
+  border-radius: 19px;
+  padding: 20px;
+}
+
+.euro-format {
+  font-weight: 700;
+}

@@ -1,0 +1,50 @@
+.landscape {
+  width: 100%;
+  height: 400px;
+}
+
+.body-container {
+  /* height: 300px; */
+  margin: 10px;
+}
+
+h3 {
+  padding-top: 20px;
+  color: black !important;
+}
+
+.green-img {
+  height: 270px;
+  width: 400px;
+}
+.wallet-img {
+  height: 270px;
+  width: 400px;
+}
+.container {
+  display: inline;
+}
+
+.gogreen-img {
+  padding-left: 82px;
+  transform: rotate(329deg);
+  padding-top: 44px;
+}
+
+.go-green {
+  color: white;
+  background-color: #7ebb7e;
+  border-radius: 23px;
+  text-align: center;
+  width: 97%;
+  height: 83px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+  margin-top: 20px;
+}
+
+.head-go {
+  padding-left:0px;
+}
